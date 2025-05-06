@@ -1,3 +1,8 @@
 client:
   property: hi
   name: Th
+management:
+  endpoints:
+    web:
+      exposure:
+        include: refresh
