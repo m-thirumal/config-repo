@@ -1,6 +1,6 @@
 client:
   property: hi
-  name: Th
+  name: Thi
 management:
   endpoints:
     web:
