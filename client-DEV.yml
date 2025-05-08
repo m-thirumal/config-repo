@@ -1,6 +1,7 @@
 client:
   property: hi
-  name: Thi-1
+  name: Thi-1-a
+  age: 33
 management:
   endpoints:
     web:
