@@ -2,6 +2,7 @@ client:
   property: hi
   name: Thi-1-ahgdasfdhga
   age: 33
+  password: '{cipher}b3e863fc66641ad1d0ee0853e7d845cd20b157e5305b8fee97d694ab2b544ec6'
 management:
   endpoints:
     web:
