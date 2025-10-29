@@ -1,2 +1,3 @@
-common: 
-  property: hello
+stage: 
+  name: Development
+  url: https://dev.example.com
